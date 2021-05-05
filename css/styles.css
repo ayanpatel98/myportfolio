@@ -43,6 +43,13 @@ body.active {
 	font-size: 0.9em;
 	margin: 0
 }
+/* Custom */
+#experience-timeline>div ol {
+	margin: 0;
+	color: #74808a;
+	font-size: 0.9em;
+	text-align: left
+}
 
 .no-js #experience-timeline:before,
 .no-js #experience-timeline:after {
