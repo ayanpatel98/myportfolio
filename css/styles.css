@@ -572,7 +572,20 @@ footer {
 .project-info p {
 	color: #74808a;
 	margin: 0 0 15px 0;
-	font-size: 0.9em
+	font-size: 0.9em;
+	text-align: justify
+}
+
+/* Custom */
+.project-info ol {
+	margin: 0;
+	color: #74808a;
+	font-size: 0.9em;
+	text-align: left
+}
+
+.project-info ol {
+	padding: 0 0 0 15px
 }
 
 .no-image .project-info {
